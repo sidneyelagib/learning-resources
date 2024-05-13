@@ -26,7 +26,7 @@
 - https://www.coursera.org/learn/exam-prep-cka-certified-kubernetes-administrator
 - https://www.coursera.org/specializations/advanced-kubernetes
 - https://www.youtube.com/watch?v=s_o8dwzRlu4
-- https://www.udemy.com/course-dashboard-redirect/?course_id=3028312
+- https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?couponCode=ACCAGE0923
 
 ## Labs
 - https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd
@@ -43,7 +43,7 @@
 - https://k8s.af/
 
 
-# Misc
+## Misc
 - https://headlamp.dev/
 - https://github.com/MuhammedKalkan/OpenLens
 - https://kustomize.io/
